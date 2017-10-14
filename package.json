@@ -1,0 +1,20 @@
+{
+	"name":"colors",
+	"version":"1.0.0",
+	"private":true,
+	"main":"colors.sketchplugin",
+	"scripts":{
+		"build":"skpm build",
+		"watch":"skpm build --watch",
+		"render":"skpm build --watch --run",
+		"render:once":"skpm build --run",
+		"link-plugin":"skpm link"
+	
+	},
+	"author":"wangwenjun12@qq.com",
+	"license":"MIT",
+
+
+
+
+}
