@@ -1,0 +1,6 @@
+切换到分支git chekcout branchName
+合并分支到当前在的分支git merge develop
+沿河分支到当前分支git rebase develop
+删除分支git branch -d <branchName>
+如果该分支没有合并到主分支会报错，可以调用git branch -D <branchName>
+
